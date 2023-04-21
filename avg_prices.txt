@@ -1,0 +1,2 @@
+AA restaurants average price level: 2.010752688172043
+Ypsilanti restaurants average price level: 1.7471264367816093
